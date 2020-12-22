@@ -12,7 +12,7 @@ print("Values: {}".format(b))
 print("Values: {}".format(c))
 
 print(f'Types: {type(n)}')
-print(f'Types: {type(n)}')
+print(f'Types: {type(m)}')
 print("Types: {}".format(type(a)))
 print("Types: {}".format(type(b)))
 print("Types: {}".format(type(c)))
